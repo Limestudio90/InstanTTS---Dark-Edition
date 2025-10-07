@@ -1,0 +1,9 @@
+C:\Users\info\Desktop\InstanTTS\InstanTTS\publish\InstanTTS.pdb
+C:\Users\info\Desktop\InstanTTS\InstanTTS\publish\App.config
+C:\Users\info\Desktop\InstanTTS\InstanTTS\publish\InstanTTS.dll.config
+C:\Users\info\Desktop\InstanTTS\InstanTTS\publish\D3DCompiler_47_cor3.dll
+C:\Users\info\Desktop\InstanTTS\InstanTTS\publish\PenImc_cor3.dll
+C:\Users\info\Desktop\InstanTTS\InstanTTS\publish\PresentationNative_cor3.dll
+C:\Users\info\Desktop\InstanTTS\InstanTTS\publish\vcruntime140_cor3.dll
+C:\Users\info\Desktop\InstanTTS\InstanTTS\publish\wpfgfx_cor3.dll
+C:\Users\info\Desktop\InstanTTS\InstanTTS\publish\InstanTTS.exe
